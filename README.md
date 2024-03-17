@@ -1,4 +1,4 @@
 # Test-App-Automation
 
 Test File Directory:
-AppAutomationTest\src\test\java\sqa\AppAutomationTest
+AppAutomationTest\src\test\java\sqa\AppAutomationTest\AppTest.java
